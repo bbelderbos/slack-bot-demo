@@ -1,1 +1,3 @@
-# slack-bot-demo
+# Slack Bot Demo
+
+How to make a Slack bot using Bolt
